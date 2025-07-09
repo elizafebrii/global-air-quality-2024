@@ -55,6 +55,7 @@ This project investigates:
 | Linear Regression | 0.62     | 15.3  | 19.7  |
 | Random Forest     | 0.88     | 7.2   | 10.1  |
 | Decision Tree     | 0.80     | 9.4   | 12.5  |
+
 **Random Forest Regressor** performed best overall in predicting AQI.
 
 ## Author
